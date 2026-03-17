@@ -23,7 +23,8 @@ F# №3
 ### Тестирование
 
 <img width="1462" height="321" alt="test1" src="https://github.com/user-attachments/assets/0e497880-ab72-4764-b24e-ec585305557d" />
-<img width="1506" height="455" alt="test2" src="https://github.com/user-attachments/assets/247de1a5-2d16-47a1-b637-ac6cf00f281d" />
+<img width="1466" height="268" alt="test1" src="https://github.com/user-attachments/assets/a04cf268-8d29-40e1-b4fd-a8df6e92c05d" />
+
 
 
 # Задание 2
