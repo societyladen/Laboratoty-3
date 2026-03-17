@@ -21,7 +21,8 @@ F# №3
 
 
 ### Тестирование
-https://yapx.ru/album/dLWif
+https://i.yapx.ru/dLWnB.png
+
 
 
 
