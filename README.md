@@ -21,10 +21,7 @@ F# №3
 
 
 ### Тестирование
-
-![Uploading Test1.png…]()
-![Uploading Test2.png…]()
-![Uploading test3.png…]()
+https://yapx.ru/album/dLWif
 
 
 
