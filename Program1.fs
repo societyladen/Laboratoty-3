@@ -1,6 +1,6 @@
 open System
 
-let rec readFloatsSeq count =
+let readFloatsSeq count =
     seq {
         for index = 1 to count do
             let rec readValue() =
